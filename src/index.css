@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('./image/sea-2560x1440-5k-4k-wallpaper-8k-ocean-storm-lightning-clouds-5738.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 code {
